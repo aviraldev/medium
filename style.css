@@ -1,0 +1,142 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 70px;
+    background-color: #FFC017;
+}
+nav ul
+{
+    width: 400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    list-style: none;
+}
+nav button
+{
+  background-color: black;
+  color: whitesmoke;
+  height: 35px;
+  width: 100px;
+  border-radius: 20px;
+}
+
+.hero_section
+{
+    background-color: #FFC017;
+    height: 70vh;
+    display: flex;
+}
+
+
+.box
+{
+    width: 50%;
+    padding-left: 60px;
+
+}
+
+.box h1
+{
+    padding-top: 80px;
+    font-size: 90px;
+
+}
+.box p
+{
+    font-size: 30px;
+}
+
+
+.box button
+{
+    height: 50px;
+    width: 230px;
+    font-size: 20px;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+
+.box_two
+{
+    padding-top: 10px;
+}
+
+
+
+.box_three
+{
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+
+.trend_section
+{
+    padding-top: 20px;
+    padding-left: 50px;
+    display: flex;
+}
+
+.box_four
+{
+    height: 130px;
+    width: 400px;
+  
+}
+
+
+.box_five
+{
+    height: 130px;
+    width: 400px;
+}
+
+
+.box_six
+{
+    height: 130px;
+    width: 400px;
+}
+
+
+.trend_2
+{
+  
+    padding-left: 50px;
+    display: flex;
+}
+
+
+.box_seven
+{
+    height: 200px;
+    width: 400px;
+}
+
+
+.box_eight
+{
+    height: 200px;
+    width: 400px;
+}
+
+
+.box_nine
+{
+    height: 200px;
+    width: 400px;
+}
